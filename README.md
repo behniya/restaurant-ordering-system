@@ -6,6 +6,7 @@ This program is a basic version for ordering and calculating the cost of the ord
 PROGRAM DEPENDENCIES:
 
 mysql.connector library
+
 tkinter library
 
 To install these packeges on windows run this in your command:
