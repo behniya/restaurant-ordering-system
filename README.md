@@ -4,6 +4,7 @@ This program focus on the database of a restaurant.
 This program is a basic version for ordering and calculating the cost of the orders and saving it on a database.
 
 PROGRAM DEPENDENCIES:
+
 mysql.connector library
 tkinter library
 
